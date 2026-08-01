@@ -1,0 +1,632 @@
+[
+  {
+    "id": 474900093,
+    "mesExtrato": "07/2025",
+    "dataTransacao": "17/06/2025",
+    "valorTransacao": "447,93",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 556016978,
+      "cpfFormatado": "",
+      "cnpjFormatado": "33.209.512/0001-11",
+      "numeroInscricaoSocial": "",
+      "nome": "IMPERIO LED BRASIL COMERCIO DE MATERIAIS ELETRICOS LTDA",
+      "razaoSocialReceita": "IMPERIO LED BRASIL COMERCIO DE MATERIAIS ELETRICOS LTDA",
+      "nomeFantasiaReceita": "ELETROPOLO",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "158482",
+      "nome": "CAMPUS DUQUE DE CAXIAS",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "26433",
+        "cnpj": "10952708000104",
+        "sigla": "IFRJ",
+        "nome": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+      },
+      "orgaoMaximo": {
+        "codigo": "26000",
+        "sigla": "MEC",
+        "nome": "Ministério da Educação"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.122.497-**",
+      "nis": "",
+      "nome": "DANIEL DIAS LEONARDO MARTINS"
+    }
+  },
+  {
+    "id": 474900157,
+    "mesExtrato": "07/2025",
+    "dataTransacao": "18/06/2025",
+    "valorTransacao": "235,50",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 607889130,
+      "cpfFormatado": "",
+      "cnpjFormatado": "60.090.163/0001-34",
+      "numeroInscricaoSocial": "",
+      "nome": "KR TEC PRODUTOS E SERVICOS LTDA",
+      "razaoSocialReceita": "KR TEC PRODUTOS E SERVICOS LTDA",
+      "nomeFantasiaReceita": "KR TEC",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "158482",
+      "nome": "CAMPUS DUQUE DE CAXIAS",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "26433",
+        "cnpj": "10952708000104",
+        "sigla": "IFRJ",
+        "nome": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+      },
+      "orgaoMaximo": {
+        "codigo": "26000",
+        "sigla": "MEC",
+        "nome": "Ministério da Educação"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.122.497-**",
+      "nis": "",
+      "nome": "DANIEL DIAS LEONARDO MARTINS"
+    }
+  },
+  {
+    "id": 474900221,
+    "mesExtrato": "07/2025",
+    "dataTransacao": "25/06/2025",
+    "valorTransacao": "510,00",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 1919011,
+      "cpfFormatado": "",
+      "cnpjFormatado": "14.479.778/0001-30",
+      "numeroInscricaoSocial": "",
+      "nome": "CASA DOS FILTROS COMERCIO E SERVICO LTDA",
+      "razaoSocialReceita": "CASA DOS FILTROS COMERCIO E SERVICO LTDA",
+      "nomeFantasiaReceita": "CASA DOS FILTROS E REFRIGERACAO",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "135005",
+      "nome": "EMBRAPA/CPAF-RR",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "22202",
+        "cnpj": "00348003000110",
+        "sigla": "EMBRAPA",
+        "nome": "Empresa Brasileira de Pesquisa Agropecuária"
+      },
+      "orgaoMaximo": {
+        "codigo": "22000",
+        "sigla": "MAPA",
+        "nome": "Ministério da Agricultura e Pecuária"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.588.328-**",
+      "nis": "",
+      "nome": "LUIZ VICENTE PEREIRA"
+    }
+  },
+  {
+    "id": 474900285,
+    "mesExtrato": "07/2025",
+    "dataTransacao": "24/06/2025",
+    "valorTransacao": "686,00",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 4918635,
+      "cpfFormatado": "",
+      "cnpjFormatado": "14.574.032/0001-05",
+      "numeroInscricaoSocial": "",
+      "nome": "L C F MENDES LTDA",
+      "razaoSocialReceita": "L C F MENDES LTDA",
+      "nomeFantasiaReceita": "'COMERCIAL LUIZ'",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "135008",
+      "nome": "EMBRAPA/CPAF-AP",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "22202",
+        "cnpj": "00348003000110",
+        "sigla": "EMBRAPA",
+        "nome": "Empresa Brasileira de Pesquisa Agropecuária"
+      },
+      "orgaoMaximo": {
+        "codigo": "22000",
+        "sigla": "MAPA",
+        "nome": "Ministério da Agricultura e Pecuária"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.382.302-**",
+      "nis": "",
+      "nome": "BENEDITO PONTES SILVA"
+    }
+  },
+  {
+    "id": 474900349,
+    "mesExtrato": "07/2025",
+    "dataTransacao": "24/06/2025",
+    "valorTransacao": "425,00",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 479018024,
+      "cpfFormatado": "",
+      "cnpjFormatado": "07.486.620/0002-02",
+      "numeroInscricaoSocial": "",
+      "nome": "ATTACK DISTRIBUIDORA LTDA",
+      "razaoSocialReceita": "ATTACK DISTRIBUIDORA LTDA",
+      "nomeFantasiaReceita": "CASA DO OLEO",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "135008",
+      "nome": "EMBRAPA/CPAF-AP",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "22202",
+        "cnpj": "00348003000110",
+        "sigla": "EMBRAPA",
+        "nome": "Empresa Brasileira de Pesquisa Agropecuária"
+      },
+      "orgaoMaximo": {
+        "codigo": "22000",
+        "sigla": "MAPA",
+        "nome": "Ministério da Agricultura e Pecuária"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.382.302-**",
+      "nis": "",
+      "nome": "BENEDITO PONTES SILVA"
+    }
+  },
+  {
+    "id": 474900413,
+    "mesExtrato": "07/2025",
+    "dataTransacao": "06/06/2025",
+    "valorTransacao": "940,00",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 212174006,
+      "cpfFormatado": "",
+      "cnpjFormatado": "33.650.301/0001-10",
+      "numeroInscricaoSocial": "",
+      "nome": "ML SOLUCOES DE VAREJO S.A",
+      "razaoSocialReceita": "ML SOLUCOES DE VAREJO S.A",
+      "nomeFantasiaReceita": "",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "255018",
+      "nome": "FUNDACAO NACIONAL DE SAUDE - PI",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "36211",
+        "cnpj": "26989350000116",
+        "sigla": "FNS",
+        "nome": "Fundação Nacional de Saúde"
+      },
+      "orgaoMaximo": {
+        "codigo": "36000",
+        "sigla": "SAÚDE",
+        "nome": "Ministério da Saúde"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.154.791-**",
+      "nis": "",
+      "nome": "FABIO SANTANA DE OLIVEIRA"
+    }
+  },
+  {
+    "id": 474900477,
+    "mesExtrato": "07/2025",
+    "dataTransacao": "06/06/2025",
+    "valorTransacao": "80,00",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 276654500,
+      "cpfFormatado": "",
+      "cnpjFormatado": "30.260.679/0001-19",
+      "numeroInscricaoSocial": "",
+      "nome": "30.260.679 LEIDYASMIN RODRIGUES MARINHO",
+      "razaoSocialReceita": "30.260.679 LEIDYASMIN RODRIGUES MARINHO",
+      "nomeFantasiaReceita": "",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "255018",
+      "nome": "FUNDACAO NACIONAL DE SAUDE - PI",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "36211",
+        "cnpj": "26989350000116",
+        "sigla": "FNS",
+        "nome": "Fundação Nacional de Saúde"
+      },
+      "orgaoMaximo": {
+        "codigo": "36000",
+        "sigla": "SAÚDE",
+        "nome": "Ministério da Saúde"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.154.791-**",
+      "nis": "",
+      "nome": "FABIO SANTANA DE OLIVEIRA"
+    }
+  },
+  {
+    "id": 474900541,
+    "mesExtrato": "07/2025",
+    "dataTransacao": "06/06/2025",
+    "valorTransacao": "1.600,00",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 607870968,
+      "cpfFormatado": "",
+      "cnpjFormatado": "14.428.894/0001-20",
+      "numeroInscricaoSocial": "",
+      "nome": "PLOT COPIAS LTDA",
+      "razaoSocialReceita": "PLOT COPIAS LTDA",
+      "nomeFantasiaReceita": "PLOT COPIAS PROJETOS E SERVICOS",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "255018",
+      "nome": "FUNDACAO NACIONAL DE SAUDE - PI",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "36211",
+        "cnpj": "26989350000116",
+        "sigla": "FNS",
+        "nome": "Fundação Nacional de Saúde"
+      },
+      "orgaoMaximo": {
+        "codigo": "36000",
+        "sigla": "SAÚDE",
+        "nome": "Ministério da Saúde"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.154.791-**",
+      "nis": "",
+      "nome": "FABIO SANTANA DE OLIVEIRA"
+    }
+  },
+  {
+    "id": 474900605,
+    "mesExtrato": "07/2025",
+    "dataTransacao": "09/06/2025",
+    "valorTransacao": "2.370,00",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 603218167,
+      "cpfFormatado": "",
+      "cnpjFormatado": "26.411.220/0001-00",
+      "numeroInscricaoSocial": "",
+      "nome": "JUNIOR RADIADORES LTDA",
+      "razaoSocialReceita": "JUNIOR RADIADORES LTDA",
+      "nomeFantasiaReceita": "",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "255000",
+      "nome": "FUNDACAO NACIONAL DE SAUDE - DF",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "36211",
+        "cnpj": "26989350000116",
+        "sigla": "FNS",
+        "nome": "Fundação Nacional de Saúde"
+      },
+      "orgaoMaximo": {
+        "codigo": "36000",
+        "sigla": "SAÚDE",
+        "nome": "Ministério da Saúde"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.667.451-**",
+      "nis": "",
+      "nome": "DORCENI DE JESUS GOMES MAIA"
+    }
+  },
+  {
+    "id": 474900669,
+    "mesExtrato": "07/2025",
+    "dataTransacao": "09/06/2025",
+    "valorTransacao": "290,22",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 29793295,
+      "cpfFormatado": "",
+      "cnpjFormatado": "04.699.455/0001-06",
+      "numeroInscricaoSocial": "",
+      "nome": "AUTO POSTO PADUA LTDA",
+      "razaoSocialReceita": "AUTO POSTO PADUA LTDA",
+      "nomeFantasiaReceita": "AUTO POSTO JR 2",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "167057",
+      "nome": "3 ESQUADRAO DE CAVALARIA MECANIZADO",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52904",
+        "cnpj": "00394452054700",
+        "sigla": "FUNDO DO EXÉRCITO",
+        "nome": "Fundo do Exército"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.876.787-**",
+      "nis": "",
+      "nome": "PAULO GUSTAVO DA SILVA MARINS"
+    }
+  },
+  {
+    "id": 474900733,
+    "mesExtrato": "07/2025",
+    "dataTransacao": "09/06/2025",
+    "valorTransacao": "43,43",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 29793295,
+      "cpfFormatado": "",
+      "cnpjFormatado": "04.699.455/0001-06",
+      "numeroInscricaoSocial": "",
+      "nome": "AUTO POSTO PADUA LTDA",
+      "razaoSocialReceita": "AUTO POSTO PADUA LTDA",
+      "nomeFantasiaReceita": "AUTO POSTO JR 2",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "167057",
+      "nome": "3 ESQUADRAO DE CAVALARIA MECANIZADO",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52904",
+        "cnpj": "00394452054700",
+        "sigla": "FUNDO DO EXÉRCITO",
+        "nome": "Fundo do Exército"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.876.787-**",
+      "nis": "",
+      "nome": "PAULO GUSTAVO DA SILVA MARINS"
+    }
+  },
+  {
+    "id": 474900797,
+    "mesExtrato": "07/2025",
+    "dataTransacao": "13/06/2025",
+    "valorTransacao": "316,41",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 169617603,
+      "cpfFormatado": "",
+      "cnpjFormatado": "14.137.177/0001-49",
+      "numeroInscricaoSocial": "",
+      "nome": "SUPER POSTO BRASIL V LTDA",
+      "razaoSocialReceita": "SUPER POSTO BRASIL V LTDA",
+      "nomeFantasiaReceita": "POSTO PARANAIBA",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "167057",
+      "nome": "3 ESQUADRAO DE CAVALARIA MECANIZADO",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52904",
+        "cnpj": "00394452054700",
+        "sigla": "FUNDO DO EXÉRCITO",
+        "nome": "Fundo do Exército"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.876.787-**",
+      "nis": "",
+      "nome": "PAULO GUSTAVO DA SILVA MARINS"
+    }
+  },
+  {
+    "id": 474900861,
+    "mesExtrato": "07/2025",
+    "dataTransacao": "13/06/2025",
+    "valorTransacao": "67,56",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 353818523,
+      "cpfFormatado": "",
+      "cnpjFormatado": "03.743.710/0001-08",
+      "numeroInscricaoSocial": "",
+      "nome": "AGUIA COMBUSTIVEIS LTDA",
+      "razaoSocialReceita": "AGUIA COMBUSTIVEIS LTDA",
+      "nomeFantasiaReceita": "POSTO NETO",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "167057",
+      "nome": "3 ESQUADRAO DE CAVALARIA MECANIZADO",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52904",
+        "cnpj": "00394452054700",
+        "sigla": "FUNDO DO EXÉRCITO",
+        "nome": "Fundo do Exército"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.876.787-**",
+      "nis": "",
+      "nome": "PAULO GUSTAVO DA SILVA MARINS"
+    }
+  },
+  {
+    "id": 474900925,
+    "mesExtrato": "07/2025",
+    "dataTransacao": "27/05/2025",
+    "valorTransacao": "70,00",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": -2,
+      "cpfFormatado": "",
+      "cnpjFormatado": "",
+      "numeroInscricaoSocial": "",
+      "nome": "NAO SE APLICA",
+      "razaoSocialReceita": "NAO SE APLICA",
+      "nomeFantasiaReceita": "NAO SE APLICA",
+      "tipo": "Sem Informação"
+    },
+    "unidadeGestora": {
+      "codigo": "170075",
+      "nome": "SUPERINTENDENCIA REG. ADM. DO MGI - BAHIA",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "46000",
+        "cnpj": "00489828000155",
+        "sigla": "MGI",
+        "nome": "Ministério da Gestão e da Inovação em Serviços Públicos - Unidades com vínculo direto"
+      },
+      "orgaoMaximo": {
+        "codigo": "46000",
+        "sigla": "MGI",
+        "nome": "Ministério da Gestão e da Inovação em Serviços Públicos"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.444.170-**",
+      "nis": "",
+      "nome": "DANIELA MAZZUCO DE SOUZA PRADO"
+    }
+  },
+  {
+    "id": 474900989,
+    "mesExtrato": "08/2025",
+    "dataTransacao": "10/07/2025",
+    "valorTransacao": "300,00",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 819685,
+      "cpfFormatado": "",
+      "cnpjFormatado": "31.304.371/0001-90",
+      "numeroInscricaoSocial": "",
+      "nome": "SILVA CAMPOS ESPORTES LTDA",
+      "razaoSocialReceita": "SILVA CAMPOS ESPORTES LTDA",
+      "nomeFantasiaReceita": "SILVA CAMPOS ESPORTE",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "741000",
+      "nome": "ARSENAL DE MARINHA_DO RIO DE JANEIRO",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52131",
+        "cnpj": "00394502000144",
+        "sigla": "CMDO MARINHA",
+        "nome": "Comando da Marinha"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.513.827-**",
+      "nis": "",
+      "nome": "ROBSON DA SILVA LIMA BARROS"
+    }
+  }
+]

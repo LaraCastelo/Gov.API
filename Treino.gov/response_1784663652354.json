@@ -1,0 +1,632 @@
+[
+  {
+    "id": 474918589,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "28/11/2025",
+    "valorTransacao": "1.252,55",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 92756983,
+      "cpfFormatado": "",
+      "cnpjFormatado": "32.428.740/0001-10",
+      "numeroInscricaoSocial": "",
+      "nome": "A F CARDOSO",
+      "razaoSocialReceita": "A F CARDOSO",
+      "nomeFantasiaReceita": "CARDOSO MATERIAL DE CONSTRUCAO",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "795140",
+      "nome": "3.BATALHAO DE INFANTARIA DE FUZILEIROS NAVAIS",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52131",
+        "cnpj": "00394502000144",
+        "sigla": "CMDO MARINHA",
+        "nome": "Comando da Marinha"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.317.637-**",
+      "nis": "",
+      "nome": "CARLOS MOZART RODRIGUES DOS SANTOS ISMERIM"
+    }
+  },
+  {
+    "id": 474918653,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "28/11/2025",
+    "valorTransacao": "19,90",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 412718196,
+      "cpfFormatado": "",
+      "cnpjFormatado": "31.288.103/0001-22",
+      "numeroInscricaoSocial": "",
+      "nome": "CAPRINI MATERIAL DE CONSTRUCAO LTDA",
+      "razaoSocialReceita": "CAPRINI MATERIAL DE CONSTRUCAO LTDA",
+      "nomeFantasiaReceita": "",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "795140",
+      "nome": "3.BATALHAO DE INFANTARIA DE FUZILEIROS NAVAIS",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52131",
+        "cnpj": "00394502000144",
+        "sigla": "CMDO MARINHA",
+        "nome": "Comando da Marinha"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.317.637-**",
+      "nis": "",
+      "nome": "CARLOS MOZART RODRIGUES DOS SANTOS ISMERIM"
+    }
+  },
+  {
+    "id": 474918717,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "28/11/2025",
+    "valorTransacao": "239,20",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 591117342,
+      "cpfFormatado": "",
+      "cnpjFormatado": "23.646.626/0001-75",
+      "numeroInscricaoSocial": "",
+      "nome": "PLASTMAR COMERCIAL LTDA",
+      "razaoSocialReceita": "PLASTMAR COMERCIAL LTDA",
+      "nomeFantasiaReceita": "PLASTMAR COMERCIAL",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "795140",
+      "nome": "3.BATALHAO DE INFANTARIA DE FUZILEIROS NAVAIS",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52131",
+        "cnpj": "00394502000144",
+        "sigla": "CMDO MARINHA",
+        "nome": "Comando da Marinha"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.317.637-**",
+      "nis": "",
+      "nome": "CARLOS MOZART RODRIGUES DOS SANTOS ISMERIM"
+    }
+  },
+  {
+    "id": 474918781,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "28/11/2025",
+    "valorTransacao": "227,50",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 606226255,
+      "cpfFormatado": "",
+      "cnpjFormatado": "34.172.971/0001-30",
+      "numeroInscricaoSocial": "",
+      "nome": "LOJAS JULIANA COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "razaoSocialReceita": "LOJAS JULIANA COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "nomeFantasiaReceita": "LOJAS JULIANA",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "795140",
+      "nome": "3.BATALHAO DE INFANTARIA DE FUZILEIROS NAVAIS",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52131",
+        "cnpj": "00394502000144",
+        "sigla": "CMDO MARINHA",
+        "nome": "Comando da Marinha"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.317.637-**",
+      "nis": "",
+      "nome": "CARLOS MOZART RODRIGUES DOS SANTOS ISMERIM"
+    }
+  },
+  {
+    "id": 474918845,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "28/11/2025",
+    "valorTransacao": "1.866,00",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 606313796,
+      "cpfFormatado": "***.240.757-**",
+      "cnpjFormatado": "",
+      "numeroInscricaoSocial": "",
+      "nome": "CRISTIANO ALVES DE FREITAS",
+      "razaoSocialReceita": "",
+      "nomeFantasiaReceita": "",
+      "tipo": "Pessoa Física"
+    },
+    "unidadeGestora": {
+      "codigo": "795140",
+      "nome": "3.BATALHAO DE INFANTARIA DE FUZILEIROS NAVAIS",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52131",
+        "cnpj": "00394502000144",
+        "sigla": "CMDO MARINHA",
+        "nome": "Comando da Marinha"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.317.637-**",
+      "nis": "",
+      "nome": "CARLOS MOZART RODRIGUES DOS SANTOS ISMERIM"
+    }
+  },
+  {
+    "id": 474918909,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "29/11/2025",
+    "valorTransacao": "1.439,50",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 604891525,
+      "cpfFormatado": "",
+      "cnpjFormatado": "08.864.062/0001-53",
+      "numeroInscricaoSocial": "",
+      "nome": "S M DE MORAES",
+      "razaoSocialReceita": "S M DE MORAES",
+      "nomeFantasiaReceita": "",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "795140",
+      "nome": "3.BATALHAO DE INFANTARIA DE FUZILEIROS NAVAIS",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52131",
+        "cnpj": "00394502000144",
+        "sigla": "CMDO MARINHA",
+        "nome": "Comando da Marinha"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.317.637-**",
+      "nis": "",
+      "nome": "CARLOS MOZART RODRIGUES DOS SANTOS ISMERIM"
+    }
+  },
+  {
+    "id": 474918973,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "29/11/2025",
+    "valorTransacao": "2.419,50",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 604891525,
+      "cpfFormatado": "",
+      "cnpjFormatado": "08.864.062/0001-53",
+      "numeroInscricaoSocial": "",
+      "nome": "S M DE MORAES",
+      "razaoSocialReceita": "S M DE MORAES",
+      "nomeFantasiaReceita": "",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "795140",
+      "nome": "3.BATALHAO DE INFANTARIA DE FUZILEIROS NAVAIS",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52131",
+        "cnpj": "00394502000144",
+        "sigla": "CMDO MARINHA",
+        "nome": "Comando da Marinha"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.317.637-**",
+      "nis": "",
+      "nome": "CARLOS MOZART RODRIGUES DOS SANTOS ISMERIM"
+    }
+  },
+  {
+    "id": 474919037,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "29/11/2025",
+    "valorTransacao": "2.066,04",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 608575217,
+      "cpfFormatado": "",
+      "cnpjFormatado": "04.641.376/0328-44",
+      "numeroInscricaoSocial": "",
+      "nome": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S/A",
+      "razaoSocialReceita": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S/A",
+      "nomeFantasiaReceita": "SUPERMERCADOS BH",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "795140",
+      "nome": "3.BATALHAO DE INFANTARIA DE FUZILEIROS NAVAIS",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52131",
+        "cnpj": "00394502000144",
+        "sigla": "CMDO MARINHA",
+        "nome": "Comando da Marinha"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.317.637-**",
+      "nis": "",
+      "nome": "CARLOS MOZART RODRIGUES DOS SANTOS ISMERIM"
+    }
+  },
+  {
+    "id": 474919101,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "01/12/2025",
+    "valorTransacao": "4.099,30",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 27737592,
+      "cpfFormatado": "",
+      "cnpjFormatado": "30.572.978/0001-99",
+      "numeroInscricaoSocial": "",
+      "nome": "CITRON IMPLEMENTOS ELETRONICOS LTDA",
+      "razaoSocialReceita": "CITRON IMPLEMENTOS ELETRONICOS LTDA",
+      "nomeFantasiaReceita": "CITRON",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "795140",
+      "nome": "3.BATALHAO DE INFANTARIA DE FUZILEIROS NAVAIS",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52131",
+        "cnpj": "00394502000144",
+        "sigla": "CMDO MARINHA",
+        "nome": "Comando da Marinha"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.317.637-**",
+      "nis": "",
+      "nome": "CARLOS MOZART RODRIGUES DOS SANTOS ISMERIM"
+    }
+  },
+  {
+    "id": 474919165,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "01/12/2025",
+    "valorTransacao": "481,92",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 349417990,
+      "cpfFormatado": "",
+      "cnpjFormatado": "28.129.260/0017-48",
+      "numeroInscricaoSocial": "",
+      "nome": "DRIFT COMERCIO DE ALIMENTOS S/A.",
+      "razaoSocialReceita": "DRIFT COMERCIO DE ALIMENTOS S/A.",
+      "nomeFantasiaReceita": "SUPERATACADO SEMPRETEM",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "795140",
+      "nome": "3.BATALHAO DE INFANTARIA DE FUZILEIROS NAVAIS",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52131",
+        "cnpj": "00394502000144",
+        "sigla": "CMDO MARINHA",
+        "nome": "Comando da Marinha"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.317.637-**",
+      "nis": "",
+      "nome": "CARLOS MOZART RODRIGUES DOS SANTOS ISMERIM"
+    }
+  },
+  {
+    "id": 474919229,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "02/12/2025",
+    "valorTransacao": "708,54",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 92756983,
+      "cpfFormatado": "",
+      "cnpjFormatado": "32.428.740/0001-10",
+      "numeroInscricaoSocial": "",
+      "nome": "A F CARDOSO",
+      "razaoSocialReceita": "A F CARDOSO",
+      "nomeFantasiaReceita": "CARDOSO MATERIAL DE CONSTRUCAO",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "795140",
+      "nome": "3.BATALHAO DE INFANTARIA DE FUZILEIROS NAVAIS",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52131",
+        "cnpj": "00394502000144",
+        "sigla": "CMDO MARINHA",
+        "nome": "Comando da Marinha"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.317.637-**",
+      "nis": "",
+      "nome": "CARLOS MOZART RODRIGUES DOS SANTOS ISMERIM"
+    }
+  },
+  {
+    "id": 474919293,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "03/12/2025",
+    "valorTransacao": "1.000,00",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 608552507,
+      "cpfFormatado": "",
+      "cnpjFormatado": "47.835.180/0001-95",
+      "numeroInscricaoSocial": "",
+      "nome": "ALESSANDRO TEODORO 09315298756",
+      "razaoSocialReceita": "ALESSANDRO TEODORO 09315298756",
+      "nomeFantasiaReceita": "",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "795140",
+      "nome": "3.BATALHAO DE INFANTARIA DE FUZILEIROS NAVAIS",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "52131",
+        "cnpj": "00394502000144",
+        "sigla": "CMDO MARINHA",
+        "nome": "Comando da Marinha"
+      },
+      "orgaoMaximo": {
+        "codigo": "52000",
+        "sigla": "DEFESA",
+        "nome": "Ministério da Defesa"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.317.637-**",
+      "nis": "",
+      "nome": "CARLOS MOZART RODRIGUES DOS SANTOS ISMERIM"
+    }
+  },
+  {
+    "id": 474919357,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "28/11/2025",
+    "valorTransacao": "15,00",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 1819355,
+      "cpfFormatado": "",
+      "cnpjFormatado": "32.907.479/0001-30",
+      "numeroInscricaoSocial": "",
+      "nome": "BRASSACO EMBALAGENS LTDA",
+      "razaoSocialReceita": "BRASSACO EMBALAGENS LTDA",
+      "nomeFantasiaReceita": "",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "170008",
+      "nome": "PROCURADORIA GERAL DA FAZENDA NACIONAL",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "25000",
+        "cnpj": "00394460000141",
+        "sigla": "MFAZ",
+        "nome": "Ministério da Fazenda - Unidades com vínculo direto"
+      },
+      "orgaoMaximo": {
+        "codigo": "25000",
+        "sigla": "MFAZ",
+        "nome": "Ministério da Fazenda"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.993.091-**",
+      "nis": "",
+      "nome": "ELISANGELA MARIA PEREIRA"
+    }
+  },
+  {
+    "id": 474919421,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "28/11/2025",
+    "valorTransacao": "320,40",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 8919048,
+      "cpfFormatado": "",
+      "cnpjFormatado": "43.283.811/0059-76",
+      "numeroInscricaoSocial": "",
+      "nome": "KALUNGA SA",
+      "razaoSocialReceita": "KALUNGA SA",
+      "nomeFantasiaReceita": "",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "170008",
+      "nome": "PROCURADORIA GERAL DA FAZENDA NACIONAL",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "25000",
+        "cnpj": "00394460000141",
+        "sigla": "MFAZ",
+        "nome": "Ministério da Fazenda - Unidades com vínculo direto"
+      },
+      "orgaoMaximo": {
+        "codigo": "25000",
+        "sigla": "MFAZ",
+        "nome": "Ministério da Fazenda"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.993.091-**",
+      "nis": "",
+      "nome": "ELISANGELA MARIA PEREIRA"
+    }
+  },
+  {
+    "id": 474919485,
+    "mesExtrato": "01/2026",
+    "dataTransacao": "12/12/2025",
+    "valorTransacao": "6.000,00",
+    "tipoCartao": {
+      "id": 1,
+      "codigo": "1",
+      "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+    },
+    "estabelecimento": {
+      "id": 367918584,
+      "cpfFormatado": "",
+      "cnpjFormatado": "18.775.301/0001-52",
+      "numeroInscricaoSocial": "",
+      "nome": "INOVETUR TURISMO & EVENTOS LTDA",
+      "razaoSocialReceita": "INOVETUR TURISMO & EVENTOS LTDA",
+      "nomeFantasiaReceita": "INOVETUR",
+      "tipo": "Entidades Empresariais Privadas"
+    },
+    "unidadeGestora": {
+      "codigo": "170008",
+      "nome": "PROCURADORIA GERAL DA FAZENDA NACIONAL",
+      "descricaoPoder": "EXECUTIVO",
+      "orgaoVinculado": {
+        "codigoSIAFI": "25000",
+        "cnpj": "00394460000141",
+        "sigla": "MFAZ",
+        "nome": "Ministério da Fazenda - Unidades com vínculo direto"
+      },
+      "orgaoMaximo": {
+        "codigo": "25000",
+        "sigla": "MFAZ",
+        "nome": "Ministério da Fazenda"
+      }
+    },
+    "portador": {
+      "cpfFormatado": "***.993.091-**",
+      "nis": "",
+      "nome": "ELISANGELA MARIA PEREIRA"
+    }
+  }
+]
