@@ -76,6 +76,3 @@ Key findings include:
 - Pandas (data cleaning and analysis)
 
 ---
-# Reproducibility
-
-The full code and datasets used in this analysis are available in this repository.
