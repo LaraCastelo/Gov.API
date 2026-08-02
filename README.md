@@ -1,45 +1,90 @@
-# Brazil's Least-Used Government Payment Card
+# Who Still Uses Brazil's Least-Used Government Payment Card?
 
-# Overview
+## Overview
 
-This project analyzes the Centralized Procurement Payment Card (CPCC), one of Brazil's three federal government corporate payment cards.
+This project analyzes Brazil's **Centralized Procurement Payment Card (CPCC)**, one of the federal government's three corporate payment cards.
 
-The goal was not only to explore the data, but also to practice working with the Portal da Transparência API, collecting and analyzing transaction-level government spending data.
+The analysis uses transaction-level data from Brazil's **Transparency Portal (Portal da Transparência)** to investigate who still uses the card, who receives the payments, and what the transactions are used for.
 
-During the analysis, I found that although the CPCC represented less than 1% of federal corporate card spending over the past five years, more than 70% of its transactions came from a single ministry: Brazil's Ministry of Education.
+The project was developed as a data journalism exercise to practice collecting and analyzing government spending data through a public API.
 
-# Why this project?
+---
 
-My original goal was to analyze the Federal Government Payment Card (CPGF), the government's main corporate card.
+## Main Questions
 
-However, the API returns every individual transaction, and querying several years of CPGF data would require processing an extremely large volume of records.
+- Who still uses the CPCC?
+- Which government agencies account for most of its transactions and spending?
+- Who receives payments made through the card?
+- What are these payments used for?
+- How does CPCC spending compare with Brazil's other government payment cards?
 
-Instead, I focused on the CPCC, the least-used government payment card. Because it has far fewer transactions, it was possible to collect and analyze five years of data while still exploring the API in depth.
+---
 
-##Why use the API instead of the Portal's CSV files?
+# Data Collection
 
-Although Brazil's Transparency Portal provides downloadable CSV files, they are organized by year and often contain aggregated information.
+This analysis is based on transaction-level data from Brazil's Transparency Portal, covering all **Centralized Procurement Payment Card (CPCC)** transactions from **August 2021 through May 2026**.
 
-Using the API offers several advantages:
+The Transparency Portal's public data catalog allows CPCC records to be downloaded only one year at a time and filtered by government ministry. This makes it difficult to build a multi-year dataset covering all agencies.
 
-- access to transaction-level data instead of summaries;
-- more detailed information for each payment;
-- the ability to retrieve multiple years of data programmatically;
-- an automated and reproducible data collection workflow.
+To overcome this limitation, I queried the Portal's public API directly, collecting the data in 12-month blocks and combining the results into a single dataset.
 
-# Questions explored
+The API also provided transaction-level details that are not available in the downloadable spreadsheets, including information about the specific recipient of each payment — the **"estabelecimento"** (which can be an individual or a company).
 
-Using the API data, I explored questions such as:
+In total, I collected **138 CPCC transactions across five federal ministries**.
 
--Who still uses the CPCC?
--Which government agencies account for most of its spending?
--Who receives the payments?
--What are the payments for?
--How does CPCC usage compare with other government payment cards?
--Data collection
--Source: Portal da Transparência API (Brazilian Office of the Comptroller General)
--Language: Python
--Environment: Jupyter Notebook
--Libraries: requests, pandas
+To compare the CPCC with Brazil's two other government payment cards, I separately compiled monthly spending totals from the Transparency Portal's published CSV files for:
+- **CPCC** — Centralized Procurement Payment Card
+- **CPGF** — Federal Government Payment Card
+- **CPDC** — Civil Defense Payment Card
 
-The data was collected using Python's requests library and covers approximately the last five years of CPCC transactions.
+The comparison covers the same five-year period.
+
+---
+
+# Data Analysis
+
+The analysis was conducted using Python in Jupyter Notebook.
+
+The workflow included:
+
+- cleaning and organizing transaction-level records;
+- analyzing spending by ministry and government institution;
+- identifying the largest recipients and payments;
+- categorizing the purpose of transactions;
+- comparing CPCC spending patterns with other federal payment cards.
+
+---
+
+# Main Findings
+
+Although the CPCC is the least-used of Brazil's three federal government payment cards, its use is concentrated among a small number of institutions.
+
+Key findings include:
+
+- The Ministry of Education accounted for more than 70% of CPCC transactions and spending during the period analyzed.
+- Only five federal education institutions used the card.
+- The IFMA Buriticupu campus was responsible for more than half of the Ministry of Education's CPCC transactions.
+- The largest payments were primarily related to airline tickets, consistent with the card's intended purpose for occasional centralized purchases.
+
+---
+
+# Tools
+
+- Python
+- Jupyter Notebook
+- Requests (API data collection)
+- Pandas (data cleaning and analysis)
+
+---
+
+# Repository Contents
+
+- `/data` — datasets used in the analysis
+- `/notebooks` — Jupyter notebooks containing data collection and analysis
+- `/README.md` — project documentation
+
+---
+
+# Reproducibility
+
+The full code and datasets used in this analysis are available in this repository.
