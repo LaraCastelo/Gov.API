@@ -27,7 +27,7 @@ Using the API offers several advantages:
 - the ability to retrieve multiple years of data programmatically;
 - an automated and reproducible data collection workflow.
 
-##Questions explored
+# Questions explored
 
 Using the API data, I explored questions such as:
 
