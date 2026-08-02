@@ -28,6 +28,41 @@ The Transparency Portal's public data catalog allows CPCC records to be download
 
 To overcome this limitation, I queried the Portal's public API directly, collecting the data in 12-month blocks and combining the results into a single dataset.
 
+## Data Collection Process
+
+The CPCC transaction dataset was collected directly from Brazil's Transparency Portal API using Python's `requests` library.
+
+Because the API returns transaction-level records and limits the amount of data retrieved in each query, I built an automated collection workflow to gather the full period analyzed.
+
+The data collection process included:
+
+1. **API authentication**
+   
+   The script securely accessed the Transparency Portal API using an API key stored as an environment variable.
+
+2. **Time-block queries**
+
+   Instead of requesting the entire period at once, the script divided the data collection into 12-month blocks, covering transactions from July 2021 to June 2026.
+
+   This approach reduced the risk of failed requests and made it possible to collect several years of data while respecting API limitations.
+
+3. **Pagination handling**
+
+   Since each API request returns only a limited number of records, the script automatically looped through multiple pages until all transactions within each period were collected.
+
+4. **Progress tracking and recovery**
+
+   The workflow included a progress-saving system. After each successful API request, the collected records were saved locally in a JSON file.
+
+   This allowed the process to resume from where it stopped in case of connection errors or interruptions, without losing previously collected data.
+
+5. **Metadata tracking**
+
+   Each transaction was tagged with the original time block and API page where it was collected, making the dataset easier to audit and reproduce.
+
+In total, the collection process retrieved **138 CPCC transactions from August 2021 to May 2026**, creating a transaction-level dataset for further analysis.
+
+
 The API also provided transaction-level details that are not available in the downloadable spreadsheets, including information about the specific recipient of each payment — the **"estabelecimento"** (which can be an individual or a company).
 
 In total, I collected **138 CPCC transactions across five federal ministries**.
