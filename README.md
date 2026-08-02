@@ -63,8 +63,6 @@ Although the CPCC is the least-used of Brazil's three federal government payment
 - The largest payments were primarily related to airline tickets, consistent with the card's intended purpose for occasional centralized purchases.
 
 ---
-
-
 - Jupyter Notebook
 - Requests (API data collection)
 - Pandas (data cleaning and analysis)
