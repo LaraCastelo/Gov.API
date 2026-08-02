@@ -8,7 +8,7 @@ The goal was not only to explore the data, but also to practice working with the
 
 During the analysis, I found that although the CPCC represented less than 1% of federal corporate card spending over the past five years, more than 70% of its transactions came from a single ministry: Brazil's Ministry of Education.
 
-##Why this project?
+# Why this project?
 
 My original goal was to analyze the Federal Government Payment Card (CPGF), the government's main corporate card.
 
