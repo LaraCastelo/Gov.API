@@ -23,8 +23,6 @@ This project was developed as a data journalism exercise to practice collecting 
 
 The Transparência Portal's public data catalog only allows CPCC records to be downloaded one year at a time, filtered by ministry, which makes it difficult to build a multi-year dataset covering all agencies. To work around this, the data was collected directly through the public API in 12-month blocks and combined into a single dataset.
 
-> **Note:** the source material mentions two slightly different date ranges for the collection period — "August 2021 through May 2026" in one place and "July 2021 to June 2026" in another. Worth confirming the correct range before publishing.
-
 ---
 
 ## Collection Methodology
