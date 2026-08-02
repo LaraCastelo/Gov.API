@@ -76,15 +76,6 @@ Key findings include:
 - Pandas (data cleaning and analysis)
 
 ---
-
-# Repository Contents
-
-- `/data` — datasets used in the analysis
-- `/notebooks` — Jupyter notebooks containing data collection and analysis
-- `/README.md` — project documentation
-
----
-
 # Reproducibility
 
 The full code and datasets used in this analysis are available in this repository.
