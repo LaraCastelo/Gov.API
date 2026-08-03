@@ -2,7 +2,7 @@
 
 Analysis of Brazil's **Centralized Procurement Payment Card (CPCC)**, one of the federal government's three corporate payment cards, based on transaction-level data from the **Transparência Portal** (Brazil's federal transparency portal).
 
-This project was developed as a data journalism exercise to practice collecting and analyzing government spending data through a public API.
+This project was developed as a data journalism exercise to practice collecting and analyzing government spending data through a public API for the Lede Journalim Program at Columbia University.
 
 ---
 
