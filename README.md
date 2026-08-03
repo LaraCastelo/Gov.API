@@ -53,7 +53,7 @@ Conducted in Python using Jupyter Notebook, including:
 
 ## Main Findings
 
-Although the CPCC is the least-used of Brazil's three federal government payment cards, its use is concentrated among a small number of institutions:
+Although the CPCC is the least-used of Brazil's three federal government payment cards, it is still consistently used among a small number of institutions:
 
 - The Ministry of Education accounted for more than 70% of CPCC transactions and spending during the period analyzed.
 - Only five federal education institutions used the card.
